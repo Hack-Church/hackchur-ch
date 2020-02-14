@@ -5,5 +5,13 @@
  */
 
 module.exports = {
-  /* Your site config here */
+  plugins: [
+    {
+      resolve: `gatsby-plugin-manifest`,
+      options: {
+        name: `hackchur.ch`,
+        icon: `static/favicon.png`,
+      },
+    },
+  ],
 }
