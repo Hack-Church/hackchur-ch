@@ -19,7 +19,7 @@ export default () => {
     <>
       <Helmet>
         <meta charSet="utf-8" />
-        <title>HДCHЦЯ.CH</title>
+        <title>HДCKCHЦЯ.CH</title>
         <link rel="canonical" href="https://hackchur.ch" />
       </Helmet>
       <div style={containerStyle}>
